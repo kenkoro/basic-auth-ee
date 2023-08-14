@@ -20,6 +20,8 @@ Then run it with `<your-tomcat-server-folder>/bin/startup.sh`.\
 
 5. Then you just open in your browser `localhost:8080/basic-auth-ee/` (Obviously, with HTTP)
 
+**P.S.:** Also you need change DB url, user, password in `Context.java`.
+
 ### Contributors
 
 <div align="center">
