@@ -27,3 +27,6 @@ replay_pid*
 .classpath
 .project
 .settings/
+
+# Exclude the .war file
+!target/basic-auth-ee.war
