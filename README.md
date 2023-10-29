@@ -1,6 +1,6 @@
 # ⚙️ Basic authentication with JSP, Servlets
 
-This is the second **Pet-project** of mine. Based on Java Servlets, Java EE.
+Based on Java Servlets, Java EE.
 
 ## 📦 Try it with Apache Tomcat
 
