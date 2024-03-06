@@ -25,8 +25,8 @@ Then run it with `<your-tomcat-server-folder>/bin/startup.sh`.\
 ### Contributors
 
 <div align="center">
-    <a href="https://github.com/kenkoro/Alarm-bot/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=kenkoro/Alarm-bot" />
+    <a href="https://github.com/kenkoro/alarm-bot/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=kenkoro/alarm-bot" />
     </a>
 </div>
 
