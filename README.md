@@ -22,13 +22,5 @@ Then run it with `<your-tomcat-server-folder>/bin/startup.sh`.\
 
 **P.S.:** Also you need change DB url, user, password in `Context.java`.
 
-### Contributors
-
-<div align="center">
-    <a href="https://github.com/kenkoro/basic-auth-ee/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=kenkoro/basic-auth-ee" />
-    </a>
-</div>
-
 [archive]: https://tomcat.apache.org/download-10.cgi
 [Eclipse]: https://www.eclipse.org/
