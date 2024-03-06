@@ -1,4 +1,4 @@
-# ⚙️ Basic authentication with JSP, Servlets
+# ⚙️ Basic auth with JSP, Servlets
 
 Based on Java Servlets, Java EE.
 
@@ -25,8 +25,8 @@ Then run it with `<your-tomcat-server-folder>/bin/startup.sh`.\
 ### Contributors
 
 <div align="center">
-    <a href="https://github.com/kenkoro/alarm-bot/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=kenkoro/alarm-bot" />
+    <a href="https://github.com/kenkoro/basic-auth-ee/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=kenkoro/basic-auth-ee" />
     </a>
 </div>
 
